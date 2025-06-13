@@ -2,12 +2,6 @@
 
 Um contador simples feito com React, TypeScript e JavaScript, criado com foco em aprendizado, semântica e responsividade.
 
-## 📸 Preview
-
-![Preview do contador](https://via.placeholder.com/600x300.png?text=Seu+contador+React+em+funcionamento)
-
-> *(Você pode substituir esse link por uma imagem real do seu projeto, se quiser)*
-
 ## 🚀 Tecnologias usadas
 
 - React
